@@ -1,0 +1,7 @@
+__pycache__/
+util/__pycache__/
+*.py[cod]
+*.log
+*.csv
+.DS_Store
+settings.py
